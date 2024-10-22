@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eleyoosi.github.io/KOp/sitemap_index.txt.gz
+Sitemap: https://eleyoosi.github.io/TEI/sitemap_index.txt.gz
+Sitemap: https://eleyoosi.github.io/USI/sitemap_index.txt.gz
+Sitemap: https://eleyoosi.github.io/dRQ/sitemap_index.txt.gz
+Sitemap: https://eleyoosi.github.io/oiC/sitemap_index.txt.gz
